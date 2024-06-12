@@ -90,3 +90,6 @@ npm run dev
 This will start the development server, allowing you to access and test the Verbwire wallet integration in your app.
 
 
+
+FEEL FREE TO USE JUST GIVE US THE CREDITS FOR THE SAME 
+
