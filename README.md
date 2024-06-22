@@ -93,4 +93,4 @@ This will start the development server, allowing you to access and test the Verb
 
 FEEL FREE TO USE JUST GIVE US THE CREDITS FOR THE SAME 
 
-You can ask for help 
+You can ask for help to improve or to run it
